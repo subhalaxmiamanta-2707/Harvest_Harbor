@@ -374,5 +374,5 @@ Harvest Harbor provides an intuitive web interface built with React, Vite, and T
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for complete details.
 
 ```
-Copyright (c) 2025-2026 Gourav Dutta, Rohan Ranjan Parida, Nikhilesh Dash, Nikhil Kumar Mohapatra.
+Copyright (c) 2025-2026 Gourav Dutta, Rohan Ranjan Parida, Nikhilesh Das, Nikhil Kumar Mohapatra.
 ```

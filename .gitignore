@@ -163,3 +163,9 @@ generated/*
 paper/
 *.zip
 reports/
+
+# ------------------------------------------------------------
+# Local AI Agent Runtime & Skills
+# ------------------------------------------------------------
+.agents/
+skills-lock.json
